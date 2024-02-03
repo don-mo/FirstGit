@@ -3,5 +3,6 @@ public class don {
     System.out.println("Bruh");
     System.out.println("Hello world");
     System.out.println("Bruhhhhhhhh 2");
+    System.out.println("bruh 3");
   }
 }
